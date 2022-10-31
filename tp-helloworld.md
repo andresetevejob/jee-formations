@@ -130,6 +130,12 @@ import jakarta.servlet.http.HttpServletResponse;
 
 10 - Notre première ligne de code.
 
+Configurer le compilateur Java du projet.Faites un clique droit sur votre projet.Selectionnez la version 17 de java SE comme sur la capture d'écran.
+
+![ScreenShort](assets/compiler.png)
+
+
+
 Supprimez, le contenu de votre méthode doGet, pour la remplacer par celle-ci
 
 ````
